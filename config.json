@@ -1,0 +1,16 @@
+{
+  "source_db": {
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "database": "krishna_life"
+  },
+  "target_db": {
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "database": "old_krishna_life"
+  },
+  "table_name": "privileges",
+  "primary_key": "id"
+}
